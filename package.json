@@ -1,0 +1,16 @@
+{
+    "name": "@rubecula/framework",
+    "version": "0.1.0",
+    "description": "",
+    "main": "template.js",
+    "module": "template.js",
+    "type": "module",
+    "scripts": {
+        "pretty": "prettier . --write --tab-width 4 --print-width 120"
+    },
+    "optionalDependencies": {
+        "prettier": "^2.6.1"
+    },
+    "author": "Robin van der Noord",
+    "license": "MIT"
+}
